@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218590652782",
+    "firebase_url": "https://firecamara.firebaseio.com",
+    "project_id": "firecamara",
+    "storage_bucket": "firecamara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218590652782:android:06e16bca7cb4eaee",
+        "android_client_info": {
+          "package_name": "com.firecamara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218590652782-cdl1n60tsv4g9jtuej0ap5qnhcs9balc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAejwwCkwuUN4QkcSKWHe7GTizJFFesg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
