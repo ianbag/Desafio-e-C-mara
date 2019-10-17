@@ -6,11 +6,11 @@ export default StyleSheet.create({
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
-      backgroundColor: '#eee',
-      padding: 20,
+      backgroundColor: '#fff',
+      padding: 50,
     },
     input: {
-      height: 45,
+      height: 105,
       backgroundColor: '#FFF',
       alignSelf: 'stretch',
       borderColor: '#EEE',
@@ -20,12 +20,12 @@ export default StyleSheet.create({
     },
     button: {
       height: 45,
+      marginBottom: 10,
       backgroundColor: '#1194f6',
       alignSelf: 'stretch',
       paddingHorizontal: 20,
       justifyContent: 'center',
       alignItems: 'center',
-      marginBottom: 10,
     },
     buttonText: {
       color: "#FFF",
@@ -61,7 +61,6 @@ export default StyleSheet.create({
       alignItems: 'center',
     },
     textHome: {
-      
       color:"#FFF",
       fontWeight: 'bold',
       marginBottom: 10
