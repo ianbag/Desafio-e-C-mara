@@ -15,6 +15,8 @@ import firebase from 'react-native-firebase';
 import { StackNavigator, TabNavigator, SwitchNavigator, TabBarBottom  } from 'react-navigation';
 import styles from '../styles/Styles.js';
 
+//salve
+
 export default class Register extends React.Component {
 
   static navigationOptions = {
